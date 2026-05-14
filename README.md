@@ -2,7 +2,7 @@
 Repository for code and exercises
 - (https://wokwi.com/projects/462706729246404609)
 
-- https://wokwi.com/projects/463336836794025985
+- https://wokwi.com/projects/463973443723200513
 
 -DHT22: https://wokwi.com/projects/463972265382482945
 
